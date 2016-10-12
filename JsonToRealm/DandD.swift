@@ -1,8 +1,7 @@
 //
 //  JsonToRealm
 //
-//  Created by TakuyaMano on 2016/10/11.
-//  Copyright © 2016年 Intelligence. All rights reserved.
+//  Copyright (c) 2016 Takuyaaan
 //
 
 import Foundation
